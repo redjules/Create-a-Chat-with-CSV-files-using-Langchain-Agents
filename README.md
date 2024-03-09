@@ -32,7 +32,7 @@ streamlit run main.py
 
 ## Results
 
-<img width="553" alt="Screenshot 2024-03-09 at 08 04 20" src="https://github.com/redjules/Create-a-Chat-with-CSV-files-using-Langchain-Agents/assets/106017493/e9dd535e-eb01-490f-ac03-cbad13c2c04b">
+<img width="560" alt="Screenshot 2024-03-09 at 08 05 58" src="https://github.com/redjules/Create-a-Chat-with-CSV-files-using-Langchain-Agents/assets/106017493/3483580d-c2cb-443d-bbca-55d5404d35d4">
 
 In the Terminal we see the train of actions of the AgentExecutor:
 
