@@ -29,3 +29,11 @@ To use the application, execute the `main.py` file using the Streamlit CLI. Make
 ```
 streamlit run main.py
 ```
+
+## Results
+
+<img width="553" alt="Screenshot 2024-03-09 at 08 04 20" src="https://github.com/redjules/Create-a-Chat-with-CSV-files-using-Langchain-Agents/assets/106017493/e9dd535e-eb01-490f-ac03-cbad13c2c04b">
+
+In the Terminal we see the train of actions of the AgentExecutor:
+
+<img width="462" alt="Screenshot 2024-03-09 at 08 05 20" src="https://github.com/redjules/Create-a-Chat-with-CSV-files-using-Langchain-Agents/assets/106017493/295eadff-1706-474b-b794-e14cca31bc37">
